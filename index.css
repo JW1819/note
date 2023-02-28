@@ -25,9 +25,10 @@ main {
   align-items: center;
 }
 .buttonItem {
-  width: 200px;
+  width: 150px;
   height: 30px;
   margin: 20px;
+  text-align: left;
   background: transparent;
   color: aliceblue;
   border: 1px solid aliceblue;
